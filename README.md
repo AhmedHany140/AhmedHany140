@@ -42,7 +42,8 @@
 - 🔹 [ API  ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_ASP.net_web_api.pdf)
 - 🔹 [ Redis](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Redis.pdf)
 - 🔹 [ Solids](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Solids.pdf)
-
+- 🔹 [Design Patterns](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Design_Patterns_.pdf)
+- 🔹 [AWS Cloud Practitioner](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/AWS_Cloud_Practitioner.pdf)
 
   ### 📚 Data Structure & Algorithms & SQL Queries  & Problem Solving Camps
 - 🔹 [ Camp1](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp1.pdf)
