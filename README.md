@@ -37,7 +37,7 @@
 
 - 🔹 [C# & Linq ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DotNet_Development.pdf)
 - 🔹 [ Database ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DB.pdf)
-- 🔹 [ Database ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Entity_Framework_Core.pdf)
+- 🔹 [ EntityFrameworkCore  ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Entity_Framework_Core.pdf)
 
 
   
