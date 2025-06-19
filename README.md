@@ -34,11 +34,20 @@
 ### 📚 Programming Summaries
 
 
-
+- 🔹 [ Operating Systems](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/OS__Full.pdf)
+- 🔹 [Some Topics in File Systems ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Intelligent_Storage_System&FC&RAID.pdf)
 - 🔹 [C# & Linq ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DotNet_Development.pdf)
 - 🔹 [ Database ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DB.pdf)
 - 🔹 [ EntityFrameworkCore  ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Entity_Framework_Core.pdf)
+- 🔹 [ API  ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_ASP.net_web_api.pdf)
+- 🔹 [ Redis](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Redis.pdf)
+- 🔹 [ Solids](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Solids.pdf)
 
+
+  ### 📚 Data Structure & Algorithms & SQL Queries  & Problem Solving Camps
+- 🔹 [ Camp1](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp1.pdf)
+- 🔹 [ Camp2](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp2.pdf)
+- 🔹 [ Camp3](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp3.pdf)
 
   
 
