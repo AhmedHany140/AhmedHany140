@@ -50,7 +50,6 @@
 - 🔹 [ Camp2](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp2.pdf)
 - 🔹 [ Camp3](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp3.pdf)
 
-- 🔹 [ Read me](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Index.md)
 
 ### 📊 GitHub Stats
 
