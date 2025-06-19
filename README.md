@@ -35,20 +35,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHany140&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHany140&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhany-dev&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
