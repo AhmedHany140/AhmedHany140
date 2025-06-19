@@ -1,10 +1,22 @@
-<h1 align="center">Hello! I'm Ahmed Hany  👋</h1>
+<h1 align="center">Hello! I'm Ahmed Hany 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=.NET+Developer;Full+Stack+Engineer;Clean+Code+Advocate;I+Love+Learning+%26+Building!" alt="Typing SVG" />
+</p>
+
+---
 
 ### 👨‍💻 Software Engineer | .NET Developer
 
-🌟 I post insightful content  
+🌟 I post insightful content about software development and best practices.
 
-🔧 Technologies I use:  
+🎯 Focused on building scalable, maintainable, and efficient web applications.
+
+🧠 I enjoy solving problems and learning new technologies.
+
+---
+
+### 🔧 Technologies I Use
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
@@ -14,8 +26,36 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhany-dev&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhany-dev&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhany-dev&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ahmed-hany-899a9a321)
+- 📧 Email: ahmedhanygjki3556@gmail.com
+
+---
+
+### 💡 Fun Fact
+
+> 🧩 I believe clean code is like poetry – it's simple, elegant, and meaningful.
