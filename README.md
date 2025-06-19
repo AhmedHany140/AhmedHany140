@@ -35,7 +35,7 @@
 
 
 
-- 🔹 [C# & Linq ](https://github.com/AhmedHany140/ahmedhany-summaries/raw/master/DotNet_Development.pdf)
+- 🔹 [C# & Linq ](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DotNet_Development.pdf)
 
   
 
