@@ -58,7 +58,6 @@ I maintain detailed technical documentation to solidify my understanding and sha
 
 ### Database Systems
 - [Database Concepts & SQL](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DB.pdf)
-- [Advanced SQL Queries](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp3.pdf)
 
 ### System Architecture
 - [Operating Systems](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/OS__Full.pdf)
