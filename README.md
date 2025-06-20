@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Professional Profile
+## 🚀 My Profile
 
 Passionate Junior .NET Developer with solid foundation in full-stack development. Eager to contribute to team projects while expanding my expertise in enterprise application development. Committed to writing clean, maintainable code and following best practices.
 
