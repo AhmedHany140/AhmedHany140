@@ -1,94 +1,97 @@
-<h1 align="center">Ahmed Hany | .NET Full Stack Developer</h1>
+<h1 align="center">Ahmed Hany | Junior .NET Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Senior+.NET+Developer;Full+Stack+Engineer;Cloud+Enthusiast;Clean+Code+Specialist;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Junior+.NET+Developer;Full+Stack+Enthusiast;Clean+Code+Learner;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 Professional Profile
 
-Experienced .NET developer with 3+ years of expertise in building scalable web applications. Passionate about implementing robust backend systems with clean architecture principles. Strong background in distributed systems, cloud technologies, and performance optimization.
+Passionate Junior .NET Developer with solid foundation in full-stack development. Eager to contribute to team projects while expanding my expertise in enterprise application development. Committed to writing clean, maintainable code and following best practices.
 
-**Core Strengths:**
-- Enterprise application development with .NET Core
-- RESTful API design and microservices architecture
-- Database optimization and query performance tuning
-- Cloud-native application development (AWS)
-- Mentoring junior developers and knowledge sharing
+**Key Attributes:**
+- Strong understanding of .NET fundamentals
+- Quick learner with passion for technology
+- Collaborative team player
+- Focused on code quality and best practices
+- Actively expanding cloud development skills
 
 ---
 
-## 🛠 Technical Expertise
+## 💻 Technical Skills
 
-### Backend Development
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+### Core Competencies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-### Frontend Development
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Databases & Caching
+### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID-DD0031?style=for-the-badge)
+
+### Learning Path
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Software Practices
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-45B8D8?style=for-the-badge)
-![SOLID Principles](https://img.shields.io/badge/SOLID-DD0031?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge)
-
 ---
 
-## 📚 Technical Documentation & Knowledge Sharing
+## 📚 Knowledge Repository
 
-I maintain comprehensive technical documentation to share knowledge with the developer community:
+I maintain detailed notes and summaries to solidify my understanding and share knowledge:
 
 ### Core Development
-- [Advanced .NET Core Concepts](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DotNet_Development.pdf)
-- [Entity Framework Core Performance Guide](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Entity_Framework_Core.pdf)
-- [REST API Best Practices](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_ASP.net_web_api.pdf)
+- [C# & .NET Fundamentals](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DotNet_Development.pdf)
+- [Entity Framework Core](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Entity_Framework_Core.pdf)
+- [ASP.NET Web API](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_ASP.net_web_api.pdf)
 
-### System Design
-- [Cloud Architecture Patterns (AWS)](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/AWS_Cloud_Practitioner.pdf)
-- [Distributed Caching with Redis](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Redis.pdf)
-- [SOLID Principles Explained](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Solids.pdf)
+### Computer Science
+- [Database Systems](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DB.pdf)
+- [Operating Systems](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/OS__Full.pdf)
+- [Data Structures & Algorithms](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp1.pdf)
 
-### Computer Science Fundamentals
-- [Operating Systems Deep Dive](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/OS__Full.pdf)
-- [Database Systems & Optimization](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DB.pdf)
-- [File Storage Systems](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Intelligent_Storage_System&FC&RAID.pdf)
+### Best Practices
+- [SOLID Principles](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Solids.pdf)
+- [Design Patterns](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Design_Patterns_.pdf)
 
 ---
 
-## 🏆 GitHub Metrics
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHany140&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHany140&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHany140&show_icons=true&theme=dark" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHany140&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
 </p>
 
 ---
 
-## 📬 Professional Contact
+## 🌱 Current Focus Areas
 
-Let's connect to discuss technology, opportunities, or collaborations:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hany-899a9a321)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhanygjki3556@gmail.com)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) *(Consider adding a portfolio link)*
+- Advancing my .NET Core and ASP.NET MVC skills
+- Learning cloud technologies (AWS)
+- Improving problem-solving skills through coding challenges
+- Studying system design principles
+- Contributing to open source projects
 
 ---
 
-## 🎯 Career Philosophy
+## 📫 Let's Connect
 
-> "I believe in writing code that's not just functional, but exemplary - code that serves as documentation of best practices and inspires other developers. My goal is to build systems that are scalable, maintainable, and a joy to work with."
+I'm open to opportunities, mentorship, and technical discussions:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hany-899a9a321)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhanygjki3556@gmail.com)
+
+---
+
+> "As a junior developer, my strength lies in my enthusiasm to learn, my attention to detail, and my commitment to growing into a well-rounded software engineer. I approach each project as an opportunity to improve my craft."
