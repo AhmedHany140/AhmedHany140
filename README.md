@@ -46,23 +46,34 @@ Passionate Junior .NET Developer with solid foundation in full-stack development
 
 ---
 
-## 📚 Knowledge Repository
+## 📚 Comprehensive Knowledge Repository
 
-I maintain detailed notes and summaries to solidify my understanding and share knowledge:
+I maintain detailed technical documentation to solidify my understanding and share knowledge:
 
 ### Core Development
 - [C# & .NET Fundamentals](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DotNet_Development.pdf)
 - [Entity Framework Core](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Entity_Framework_Core.pdf)
+- [ASP.NET MVC Framework](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/ASP.Net%20MVC.pdf)
 - [ASP.NET Web API](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_ASP.net_web_api.pdf)
 
-### Computer Science
-- [Database Systems](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DB.pdf)
-- [Operating Systems](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/OS__Full.pdf)
-- [Data Structures & Algorithms](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp1.pdf)
+### Database Systems
+- [Database Concepts & SQL](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/DB.pdf)
+- [Advanced SQL Queries](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp3.pdf)
 
-### Best Practices
+### System Architecture
+- [Operating Systems](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/OS__Full.pdf)
+- [Storage Systems & RAID](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Intelligent_Storage_System&FC&RAID.pdf)
+- [Redis Caching](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Redis.pdf)
+- [AWS Cloud Practitioner](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/AWS_Cloud_Practitioner.pdf)
+
+### Software Engineering
 - [SOLID Principles](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/Solids.pdf)
 - [Design Patterns](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Design_Patterns_.pdf)
+
+### Problem Solving
+- [Data Structures & Algorithms Camp 1](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp1.pdf)
+- [Data Structures & Algorithms Camp 2](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp2.pdf)
+- [Data Structures & Algorithms Camp 3](https://github.com/AhmedHany140/MyDotNet-summaries/raw/master/_Camp3.pdf)
 
 ---
 
@@ -77,21 +88,21 @@ I maintain detailed notes and summaries to solidify my understanding and share k
 
 ## 🌱 Current Focus Areas
 
-- Advancing my .NET Core and ASP.NET MVC skills
-- Learning cloud technologies (AWS)
-- Improving problem-solving skills through coding challenges
-- Studying system design principles
-- Contributing to open source projects
+- Mastering .NET Core and ASP.NET MVC patterns
+- Developing cloud-native applications with AWS
+- Implementing caching strategies with Redis
+- Enhancing problem-solving skills through coding challenges
+- Applying design patterns in real-world scenarios
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to opportunities, mentorship, and technical discussions:
+I welcome opportunities for collaboration, mentorship, and professional growth:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hany-899a9a321)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhanygjki3556@gmail.com)
 
 ---
 
-> "As a junior developer, my strength lies in my enthusiasm to learn, my attention to detail, and my commitment to growing into a well-rounded software engineer. I approach each project as an opportunity to improve my craft."
+> "My commitment to continuous learning is demonstrated through my comprehensive technical documentation. I believe in building strong foundations while actively expanding my skill set to become a well-rounded software engineer."
